@@ -1,2 +1,2 @@
-# cmca
-Gradient Boosting models for predicting the CO2 uptake of coal ashes during carbon mineralization
+# c3gb
+Gradient Boosting models for predicting the CO2 uptake of Coal ashes in Carbon mineralization
