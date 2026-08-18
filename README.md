@@ -48,7 +48,7 @@ Or use the following BibTeX entry:
 ```bibtex
 @article{cai2026c3gb,
   title={AI-guided prediction and control of CO2 mineralization in coal ashes as carbon-efficient supplementary cementitious materials},
-  author={Cai, Kangyi and Cheng, Xiang and Huang, Yujie and Zhang, Feng and Ma, Hongyan},
+  author={Cai, Kangyi and Cheng, Xing and Huang, Yuyang and Zhang, Fan and Ma, Hongyan},
   journal={},
   volume={},
   pages={},
